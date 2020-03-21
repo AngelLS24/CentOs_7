@@ -1,1 +1,1 @@
-# CentOs_7
+# Anotaciones de CentOs 7 - Temas Especiales ICO
